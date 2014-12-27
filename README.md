@@ -1,7 +1,4 @@
-> Disclaimer: Palantir Technologies is not affiliated with, endorsed or sponsored by [Palantir.net](http://palantir.net/), Inc. 
-> Palantir.net's website is http://palantir.net 
-
-![Palantir Logo](/palantir/Cinch/wiki/palantir-masthead.png)
+![Palantir Logo](https://github.com/palantir/Cinch/wiki/palantir-masthead.png)
 # Cinch - annotations to make MVC easy #
 
 ---
@@ -16,7 +13,7 @@ Cinch uses Java annotations to reflectively wire up Models, Views, and Controlle
 
 ### Project Resources #
 
-* The [Wiki](/palantir/Cinch/wiki) has all the project documentation.
+* The [Wiki](http://github.com/palantir/Cinch/wiki) has all the project documentation.
 * API docs are available [here](http://palantir.github.com/Cinch/apidocs)
 * Mailing lists are hosted on Google Groups:
     * [Announce](http://groups.google.com/group/ptoss-cinch-announce)
